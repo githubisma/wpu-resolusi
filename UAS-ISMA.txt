@@ -4,3 +4,5 @@ WPU RRESOLUSI
 -UAS Bahasa Inggris hari rabu
 -UAS Filsafat MIPA hari rabu
 -UAS Geometri Ruang hari kamis
+-UAS Profesi Kependidikan hari senin
+-UAS Komputer Dasar hari senin
